@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq
-|2,0,1633139486,,"wq"
 :q
-|2,0,1633139427,,"q"
+|2,0,1633152247,,"q"
+:wq
+|2,0,1633152144,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,35 +27,259 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/hello.py
-|4,48,6,0,1633139486,"~/hello.py"
-'1  1  0  ~/hello.ph
-|4,49,1,0,1633139427,"~/hello.ph"
-'2  1  0  ~/.ssh/id_ed25519.pub
-|4,50,1,0,1633085145,"~/.ssh/id_ed25519.pub"
+'0  1  0  ~/.ssh/id_ed25519.pub
+|4,48,1,0,1633152247,"~/.ssh/id_ed25519.pub"
+'1  1  0  ~/id_ed25519.pub
+|4,49,1,0,1633152144,"~/id_ed25519.pub"
+'2  94  8  ~/.bashrc
+|4,50,94,8,1633151540,"~/.bashrc"
+'3  94  19  ~/.bashrc
+|4,51,94,19,1633151521,"~/.bashrc"
+'4  94  18  ~/.bashrc
+|4,52,94,18,1633151442,"~/.bashrc"
+'5  94  18  ~/.bashrc
+|4,53,94,18,1633151442,"~/.bashrc"
+'6  1  0  ~/.bashrc
+|4,54,1,0,1633150821,"~/.bashrc"
+'7  1  0  ~/.bashrc
+|4,55,1,0,1633150821,"~/.bashrc"
+'8  1  0  ~/.bashrc
+|4,56,1,0,1633150821,"~/.bashrc"
+'9  1  0  ~/.bashrc
+|4,57,1,0,1633150821,"~/.bashrc"
 
 # Jumplist (newest first):
--'  6  0  ~/hello.py
-|4,39,6,0,1633139486,"~/hello.py"
--'  1  0  ~/hello.py
-|4,39,1,0,1633139432,"~/hello.py"
--'  1  0  ~/hello.ph
-|4,39,1,0,1633139427,"~/hello.ph"
--'  1  0  ~/hello.ph
-|4,39,1,0,1633139427,"~/hello.ph"
 -'  1  0  ~/.ssh/id_ed25519.pub
-|4,39,1,0,1633085145,"~/.ssh/id_ed25519.pub"
--'  1  0  ~/.ssh/id_ed25519.pub
-|4,39,1,0,1633085145,"~/.ssh/id_ed25519.pub"
--'  1  0  ~/.ssh/id_ed25519.pub
-|4,39,1,0,1633085145,"~/.ssh/id_ed25519.pub"
--'  1  0  ~/.ssh/id_ed25519.pub
-|4,39,1,0,1633085145,"~/.ssh/id_ed25519.pub"
+|4,39,1,0,1633152247,"~/.ssh/id_ed25519.pub"
+-'  1  0  ~/id_ed25519.pub
+|4,39,1,0,1633152144,"~/id_ed25519.pub"
+-'  1  0  ~/id_ed25519.pub
+|4,39,1,0,1633152144,"~/id_ed25519.pub"
+-'  94  8  ~/.bashrc
+|4,39,94,8,1633151540,"~/.bashrc"
+-'  94  8  ~/.bashrc
+|4,39,94,8,1633151540,"~/.bashrc"
+-'  94  8  ~/.bashrc
+|4,39,94,8,1633151540,"~/.bashrc"
+-'  94  8  ~/.bashrc
+|4,39,94,8,1633151540,"~/.bashrc"
+-'  94  19  ~/.bashrc
+|4,39,94,19,1633151521,"~/.bashrc"
+-'  94  19  ~/.bashrc
+|4,39,94,19,1633151521,"~/.bashrc"
+-'  94  19  ~/.bashrc
+|4,39,94,19,1633151521,"~/.bashrc"
+-'  94  19  ~/.bashrc
+|4,39,94,19,1633151521,"~/.bashrc"
+-'  94  18  ~/.bashrc
+|4,39,94,18,1633151442,"~/.bashrc"
+-'  94  18  ~/.bashrc
+|4,39,94,18,1633151442,"~/.bashrc"
+-'  94  18  ~/.bashrc
+|4,39,94,18,1633151442,"~/.bashrc"
+-'  94  18  ~/.bashrc
+|4,39,94,18,1633151442,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633151378,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633150821,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633150821,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633150821,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1633150821,"~/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  1  0  ~/tugas16denny/.bashrc
+|4,39,1,0,1633150563,"~/tugas16denny/.bashrc"
+-'  2  15  ~/main.py
+|4,39,2,15,1633147348,"~/main.py"
+-'  2  15  ~/main.py
+|4,39,2,15,1633147348,"~/main.py"
+-'  2  15  ~/main.py
+|4,39,2,15,1633147348,"~/main.py"
+-'  2  15  ~/main.py
+|4,39,2,15,1633147348,"~/main.py"
+-'  2  15  ~/main.py
+|4,39,2,15,1633147348,"~/main.py"
 
 # History of marks within files (newest to oldest):
 
+> ~/.ssh/id_ed25519.pub
+	*	1633152246	0
+	"	1	0
+
+> ~/id_ed25519.pub
+	*	1633152141	0
+	"	1	0
+
+> ~/.bashrc
+	*	1633151538	0
+	"	94	8
+	^	94	9
+	.	94	9
+	+	94	9
+
+> ~/tugas16denny/.bashrc
+	*	1633150556	0
+	"	1	0
+
+> ~/main.py
+	*	1633147346	0
+	"	2	15
+	^	2	16
+	.	2	16
+	+	2	16
+
 > ~/hello.py
-	*	1633139484	0
+	*	1633140010	0
 	"	6	0
 	^	6	0
 	.	6	0
@@ -64,8 +288,4 @@
 
 > ~/hello.ph
 	*	1633139423	0
-	"	1	0
-
-> ~/.ssh/id_ed25519.pub
-	*	1633085142	0
 	"	1	0
